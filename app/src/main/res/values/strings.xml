@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">day02</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_home">微信</string>
+    <string name="title_dashboard">通讯录</string>
+    <string name="title_notifications">我</string>
+    <string name="home_sound">声音</string>
+    <string name="home_touch">触感</string>
 </resources>
